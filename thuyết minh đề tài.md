@@ -139,3 +139,17 @@ B2.3. Kế hoạch triển khai
 
 B3. Kết quả dự kiến
 B4. Tài liệu tham khảo
+
+
+Vậy đề tài chúng ta sẽ làm gì và làm như thế nào?
+1. Mục tiêu của đề tài
+- Tạo ra một môi trường đặc thù cho doanh nghiệp nhỏ có thể tiếp thị và bán sản phẩm của mình trên môi trường kĩ thuật số 
+- Bao gồm tiếp thị sản phẩm
+- truy vấn thông tin sản phẩm có trong danh mục sản phẩm mà công ty đang bán
+- lưu trữ thông tin người dùng
+- lưu trữ và xử lý đơn hàng
+- tích hợp các cổng thanh toán
+- tích hợp các công nghệ về AI để nhận biết được người dùng đang cần gì và đưa ra những gợi ý phù hợp so với nhu cầu của họ.
+- quản lý tiếp thị và quảng cáo với các đối tác bên thứ 3.
+- hỗ trợ thông tin đơn hàng cho người dùng (kiểu chatbox và vân vân)
+
